@@ -17,7 +17,7 @@
 const juliaArapiraca = {
     pronouns: ["She", "Her"],
     askMeAbout: ["web dev", "tech", "brooklyn nine-nine", "critical role", "rupaul's drag race"],
-    whatILove: ["d&d", "anything marvel and dc", "percy jackson", "the owl house", "taylor swift", "sushi", "burger and fries", "tattoos and piercings", "traveling"],
+    whatILove: ["d&d", "anything marvel and dc", "percy jackson", "taylor swift", "sushi", "burger and fries", "tattoos and piercings", "traveling"],
     knownTechnologies: ["JavaScript", "CSS", "HTML"],
     currentlyStudying: {
         frontEnd: ["ReactJS"],
