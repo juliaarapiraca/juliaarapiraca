@@ -29,7 +29,6 @@ const juliaArapiraca = {
 };
 ```
 <br>
-<br>
 <div align="center">
    <a href="https://github.com/juliaarapiraca">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarapiraca&layout=compact&langs_count=7&theme=jolly"/>
