@@ -9,10 +9,9 @@
 >You ask them for a d8!
 
 
-<br>Born and raised in Salvador, Bahia - Brazil, I am a former English Teacher as a Second Language and in 2021 I decided to make a career transition to the technology area. 
-<br>Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time! 
-<br>I'm addicted to Critical Role, TV Shows, Movies and a few games as Terraria and Don't Starve Together, and classics like Pokemon, Super Mario and Sonic. 
-<br>I am also a dice hoarder goblin and I'm not ashamed of it! 
+<br>Born and raised in Salvador, Bahia - Brazil, I am a former English Teacher as a Second Language and in 2021 I decided to make a career transition to the technology area. Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time! 
+<br><br>I'm addicted to Critical Role, TV Shows, Movies and a few games as Terraria and Don't Starve Together, and classics like Pokemon, Super Mario and Sonic. 
+<br><br>I am also a dice hoarder goblin and I'm not ashamed of it! 
 
 ```javascript
 const juliaArapiraca = {
