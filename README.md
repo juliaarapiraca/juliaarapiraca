@@ -8,7 +8,6 @@
 >
 >You ask them for a d8!
 
-
 <br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time!
 
 <br><div align="center">
