@@ -4,9 +4,9 @@
 
 #### Hello and welcome to my GitHub!
 
->How do you get a DnD player to go out with you?
+>What forest animal helps the druid get that nice green colour for their robe?
 >
->You ask them for a d8!
+>A Dyer Wolf!
 
 <br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time!<br>
 <br>A Sagittarius Sun/Capricorn Moon that loves learning new things and the color purple. <br>
