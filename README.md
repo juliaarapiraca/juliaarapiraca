@@ -21,7 +21,7 @@
        <a href="mailto:juliaarapiraca@hotmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
        <a href="https://www.linkedin.com/in/júlia-arapiraca/" target="_blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
        <a href="https://discordapp.com/users/p e a c h#2511" target="_blank"><img alt="Discord Badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>   
-</div>
+</div><br>
 
 ```javascript
 const juliaArapiraca = {
