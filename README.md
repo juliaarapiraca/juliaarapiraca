@@ -13,7 +13,7 @@
 <br>I'm addicted to Critical Role, RuPaul's Drag Race, TV Shows, Movies and a few games as Terraria, Stardew Valley, Don't Starve Together and Fran Bow, as well as classics like Pokemon, Super Mario and Sonic. 
 <br><br>I am also a dice hoarder goblin and I'm not ashamed of it!
 
-<br><div align="center">
+<div align="center">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
    <a href="https://github.com/juliaarapiraca">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarapiraca&layout=compact&langs_count=7&theme=jolly"/>
