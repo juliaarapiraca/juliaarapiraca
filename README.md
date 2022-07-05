@@ -36,9 +36,3 @@ const juliaArapiraca = {
     }
 };
 ```
-
-<br>A Sagittarius Sun/Capricorn Moon that loves learning new things and the color purple! <br>
-<br>I'm addicted to Critical Role, RuPaul's Drag Race, TV Shows, Movies and a few games as Terraria, Stardew Valley, Don't Starve Together and Fran Bow, as well as classics like Pokemon, Super Mario and Sonic. 
-<br><br>I am also a dice hoarder goblin and I'm not ashamed of it! 
-
-
