@@ -11,7 +11,7 @@
 
 <br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time!
 
-<div align="center">
+<br><div align="center">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
    <a href="https://github.com/juliaarapiraca">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarapiraca&layout=compact&langs_count=7&theme=jolly"/>
@@ -38,7 +38,7 @@ const juliaArapiraca = {
 ```
 
 <br>A Sagittarius Sun/Capricorn Moon that loves learning new things and the color purple! <br>
-<br><br>I'm addicted to Critical Role, RuPaul's Drag Race, TV Shows, Movies and a few games as Terraria, Stardew Valley, Don't Starve Together and Fran Bow, as well as classics like Pokemon, Super Mario and Sonic. 
+<br>I'm addicted to Critical Role, RuPaul's Drag Race, TV Shows, Movies and a few games as Terraria, Stardew Valley, Don't Starve Together and Fran Bow, as well as classics like Pokemon, Super Mario and Sonic. 
 <br><br>I am also a dice hoarder goblin and I'm not ashamed of it! 
 
 
