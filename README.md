@@ -4,9 +4,9 @@
 
 #### Hello and welcome to my GitHub!
 
->What forest animal helps the druid get that nice green colour for their robe?
+>How many programmers does it take to change a light bulb?
 >
->A Dyer Wolf!
+>None – It’s a hardware problem
 
 <br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. Now I am a Junior FullStack Software Developer, a RPG player on my free time, and a geek all the time!<br>
 <br>A Sagittarius Sun/Capricorn Moon that loves learning new things and the color purple. <br>
