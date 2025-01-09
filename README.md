@@ -8,10 +8,11 @@
 >
 >None – It’s a hardware problem
 
-<br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. After working as a Back End Instructor for almost 2 years, I decided to study about Product, and currently am working in two different volunteer jobs as a Product Owner. Despite that, being called to code again, I am back to studying programming, this time exploring Web3 and Motoko. I guess you can say I'm a Jill of all Trades!<br>
+<br>Born and raised in Salvador, Bahia - Brazil, I am a former English as a Second Language Teacher and in 2021 I decided to make a career transition to the technology area. After working as a Back End Instructor for almost 2 years, I decided to study about Product, and currently am working in two different volunteer jobs as a Product Owner. <br>
+Despite that, feeling the call to code again, I am back to studying programming, this time exploring the wonders of Web3 and Motoko.<br> 
 <br>A Sagittarius Sun/Capricorn Moon that loves learning new things and the color purple. <br>
 <br>I'm addicted to Critical Role, RuPaul's Drag Race, TV Shows, Movies and a few games as Terraria, Stardew Valley, Don't Starve Together and Fran Bow, as well as classics like Pokemon, Super Mario and Sonic. 
-<br><br>I am also a dice hoarder goblin and I'm not ashamed of it!
+<br><br>Did I mention I also make artisanal scented candles (check out @vesta_velas on Instagram!)? I guess you can say I'm a <b>Jill of all Trades!</b><br>
 
 <div align="center">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -31,7 +32,7 @@
 const juliaArapiraca = {
     pronouns: ["She", "Her"],
     askMeAbout: ["web dev", "tech", "brooklyn nine-nine", "critical role", "rupaul's drag race", "percy jackson", "taylor swift"],
-    whatILove: ["d&d", "anything marvel and dc", "sushi", "burger and fries", "tattoos and piercings", "traveling"],
+    whatILove: ["d&d", "anything marvel and dc", "sushi", "burger and fries", "tattoos and piercings", "traveling", "candles"],
     knownTechnologies: ["JavaScript", "NodeJs", "PostegreSQL", "CSS", "HTML"],
     currentlyStudying: {
         frontEnd: ["ReactJS"],
